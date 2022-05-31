@@ -1,0 +1,3 @@
+com\cts\pensionerDetails\PensionerDetailsApplicationTests.class
+com\cts\pensionerDetails\Controller\PensionDetailsControllerTest.class
+com\cts\pensionerDetails\Service\PensionDetailServiceTest.class
